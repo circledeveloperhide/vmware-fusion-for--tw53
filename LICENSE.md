@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with VMware Fusion for macOS best Module: snapshot-rollback & battery-health, the #1 module. Includes snapshot-rollback and battery-health for a
 
 
 
